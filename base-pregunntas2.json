@@ -1,3 +1,42 @@
 [
-    {}
+ 
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "significado de  \"El jardín de las delicias\"",
+        "respuesta": "Mundo Terrenal",
+        "incorrecta1": "Es Mejor Morir",
+        "incorrecta2": "Dios Es El Camino",
+        "incorrecta3": "Adán Y Eva\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "imagen": "https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Vivía en el 221B de Backer Street.",
+        "respuesta": "Sherlock Holmes",
+        "incorrecta1": "Katniss Everdeen",
+        "incorrecta2": "Hermione Jean Granger",
+        "incorrecta3": "Harry James Potter \r",
+        "imagen": "https://i.ibb.co/SPqsRyx/221b.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Género al que pertenece la novela \"La historia del ojo\" de George Bataille",
+        "respuesta": "Erótico",
+        "incorrecta1": "Drama",
+        "incorrecta2": "Terror",
+        "incorrecta3": "Suspenso\r",
+        "imagen": "https://i.ibb.co/dgfv8zK/el-ojo.gif"
+    }
+
 ]

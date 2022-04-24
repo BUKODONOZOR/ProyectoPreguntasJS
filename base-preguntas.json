@@ -1,3 +1,70 @@
+
 [
-    {}
+    {
+        "categoria": "VideoJuego",
+        "pregunta": "Nombre de protagonista de Resident Evil 4",
+        "respuesta": "Leon S.Kennedy",
+        "dificultad": "Dante",
+        "incorrecta1": "The rock",
+        "incorrecta2": "Mario",
+        "incorrecta3": "Mega man",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+
+
+  
+
+    {
+        "categoria": "Politica",
+        "pregunta": "¿Cuando se realizaran las elecciones Colombianas del 2022",
+        "respuesta": "29 de mayo",
+        "dificultad": "11 de diciembre",
+        "incorrecta1": "15 de julio",
+        "incorrecta2": "13 de agosto",
+        "incorrecta3": "26 de mayo",
+        "imagen": "https://e00-co-marca.uecdn.es/claro/assets/multimedia/imagenes/2022/04/19/16503879057494.jpg"
+    }
+,
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Es una figura clave del dadaísmo y el surrealismo.",
+        "respuesta": "Max Ernst",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Claude Monet\r",
+        "imagen": "https://i.ibb.co/dLw3jng/Dada-min-e1533749290497.jpg"
+    },
+
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    }
+
+
 ]
