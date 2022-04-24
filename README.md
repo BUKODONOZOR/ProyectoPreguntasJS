@@ -27,4 +27,5 @@ desordenarRespuestas: Para aumentar la dificultad , utilizando el .Math se desor
 RECOMENDACIONES
 
 Ejecutar en el navegador (preferiblemente actualizado )  utilizando la extensión live server 
+
 ![Uploading image.png…]()
