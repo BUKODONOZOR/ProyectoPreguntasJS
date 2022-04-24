@@ -1,4 +1,3 @@
-
 [
     {
         "categoria": "VideoJuego",
@@ -7,12 +6,10 @@
         "dificultad": "Dante",
         "incorrecta1": "The rock",
         "incorrecta2": "Mario",
-        "incorrecta3": "Mega man"
+        "incorrecta3": "Mega man",
+        "imagen": "",
+        "objectFit": "cover"
     },
-
-
-  
-
     {
         "categoria": "Politica",
         "pregunta": "¿Cuando se realizaran las elecciones Colombianas del 2022",
@@ -20,8 +17,676 @@
         "dificultad": "11 de diciembre",
         "incorrecta1": "15 de julio",
         "incorrecta2": "13 de agosto",
-        "incorrecta3": "26 de mayo"
-    }
-
-
+        "incorrecta3": "26 de mayo",
+        "imagen": "https://e00-co-marca.uecdn.es/claro/assets/multimedia/imagenes/2022/04/19/16503879057494.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen": "https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Es una figura clave del dadaísmo y el surrealismo.",
+        "respuesta": "Max Ernst",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Claude Monet\r",
+        "imagen": "https://i.ibb.co/dLw3jng/Dada-min-e1533749290497.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen": "https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántos rayos gamma emite una neurona cuando hace sinapsis?",
+        "respuesta": "Ninguno",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Dos",
+        "incorrecta3": "De Dos a Tres\r",
+        "imagen": "https://i.ibb.co/T8nnYyV/00.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama a la sensibilidad dolorosa de los sonidos?",
+        "respuesta": "Hiperacusia",
+        "incorrecta1": "Hipoacusia",
+        "incorrecta2": "Micropsia",
+        "incorrecta3": "Hipoalgesia\r"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": "¿Cuál de estas redes sociales es de ámbito laboral?",
+        "respuesta": "Linkedin",
+        "incorrecta1": "Facebook",
+        "incorrecta2": "Tuenti",
+        "incorrecta3": "Jobfire\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama la parte de la estructura de una cúpula que la sostiene?",
+        "respuesta": "Tambor",
+        "incorrecta1": "Nervaduras",
+        "incorrecta2": "Contrafuerte",
+        "incorrecta3": "Ninguna\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama el nivel más alto de la marea?",
+        "respuesta": "Pleamar",
+        "incorrecta1": "Bajamar",
+        "incorrecta2": "Repunte",
+        "incorrecta3": "Estacionario\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Con que parte del cuerpo hacen el zumbido las abejas?",
+        "respuesta": "Con Las Alas",
+        "incorrecta1": "Con Las Patas ",
+        "incorrecta2": "Con La Boca",
+        "incorrecta3": "Con Las Antenas\r",
+        "imagen": "https://i.ibb.co/C04sZM3/00.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama el incremento en la fluidez y volumen de las deposiciones?",
+        "respuesta": "Diarrea",
+        "incorrecta1": "Estreñimiento",
+        "incorrecta2": "Diverticulosis",
+        "incorrecta3": "Hemorroides\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se mide la fuerza del viento en el mar?",
+        "respuesta": "Nudos",
+        "incorrecta1": "Pies",
+        "incorrecta2": "Zancadas",
+        "incorrecta3": "Kilómetros Por Hora\r",
+        "imagen": "https://i.ibb.co/g6kcqTK/thumbs-b-c-0970f11a6d81d650d9c47ea21f10a751.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el órgano que tiene como única función el placer?",
+        "respuesta": "Clítoris",
+        "incorrecta1": "Vulva",
+        "incorrecta2": "Pene",
+        "incorrecta3": "Testículos\r",
+        "imagen": "https://i.ibb.co/9y1q0cN/1425769522.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Con qué suele arreglarse un diente con caries?",
+        "respuesta": "Empaste",
+        "incorrecta1": "Extrayéndolo",
+        "incorrecta2": "Limpieza Bucal",
+        "incorrecta3": "Ortodoncia\r",
+        "imagen": "https://i.ibb.co/TLd7XTv/35.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es la ciencia que estudia la aplicación de la informática y las comunicaciones al hogar?",
+        "respuesta": "Domótica",
+        "incorrecta1": "Robótica",
+        "incorrecta2": "Casática",
+        "incorrecta3": "Autología\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es el gavial (Gavialis gangeticus)?",
+        "respuesta": "Cocodrilo",
+        "incorrecta1": "Hipopótamo",
+        "incorrecta2": "Serpiente",
+        "incorrecta3": "Tiburón\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es la fórmula química del agua?",
+        "respuesta": "H2O",
+        "incorrecta1": "HO",
+        "incorrecta2": "HO2",
+        "incorrecta3": "Agu\r",
+        "imagen": "https://i.ibb.co/g6kcqTK/thumbs-b-c-0970f11a6d81d650d9c47ea21f10a751.jpg"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el símbolo de Bromo?",
+        "respuesta": "Br",
+        "incorrecta1": "No Es Un Elemento, Es Un Compuesto",
+        "incorrecta2": "B",
+        "incorrecta3": "BH\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuáles son los efectos de la prolactina?",
+        "respuesta": "Producción De Leche",
+        "incorrecta1": "Crecimiento Del Cabello",
+        "incorrecta2": "Ayuda Al Parto",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué compuesto químico es el componente activo de los pimientos picantes?",
+        "respuesta": "Capsaicina",
+        "incorrecta1": "Celobiosa",
+        "incorrecta2": "Galactosa",
+        "incorrecta3": "Glucosa\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿En qué parte del cuerpo se encuentra el tendón de Aquiles?",
+        "respuesta": "En El Tobillo",
+        "incorrecta1": "En El  Brazo ",
+        "incorrecta2": "En La Espalda",
+        "incorrecta3": "En La Rodilla\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el símbolo del Sodio?",
+        "respuesta": "Na",
+        "incorrecta1": "Mn",
+        "incorrecta2": "Li",
+        "incorrecta3": "Au\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál es el nombre común del ácido ascórbico?",
+        "respuesta": "Vitamina C",
+        "incorrecta1": "Ácido Cítrico",
+        "incorrecta2": "Vitamina B6",
+        "incorrecta3": "Vitamina B12\r"
+    },
+    {
+        "categoria": "Internet",
+        "pregunta": "¿Cómo se llama la página web más famosa del mundo en la que se puede visualizar videos de todo tipo?",
+        "respuesta": "Youtube",
+        "incorrecta1": "Cinetube",
+        "incorrecta2": "Glooge",
+        "incorrecta3": "Videotube\r"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Qué sustancias se liberan en una combustión completa?",
+        "respuesta": "Dióxido De Carbono Y Agua",
+        "incorrecta1": "Monóxido De Carbono Y Agua",
+        "incorrecta2": "Carbono, Oxígeno Y Agua",
+        "incorrecta3": "Solamente Agua\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Sistema operativo para telefonos más usado",
+        "respuesta": "Android",
+        "incorrecta1": "IOS",
+        "incorrecta2": "Microsoft",
+        "incorrecta3": "Windows\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué tipo de músculos realizan los movimientos voluntarios?",
+        "respuesta": "Estriados ",
+        "incorrecta1": "Lisos",
+        "incorrecta2": "Gordos ",
+        "incorrecta3": "Gruesos\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué son los \"julios\"?",
+        "respuesta": "Magnitud De La Energía, Trabajo Y Calor",
+        "incorrecta1": "Magnitud Para El Calor Del Sol",
+        "incorrecta2": "El Mes Más Frío Del Invierno",
+        "incorrecta3": "El Mes Más Caluroso Del Verano\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Cuál es la raíz cuadrada del 169?",
+        "respuesta": "13",
+        "incorrecta1": "15",
+        "incorrecta2": "14",
+        "incorrecta3": "17\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿De cuál de estas plantas se extrae la marihuana?",
+        "respuesta": "Cannabis",
+        "incorrecta1": "Violeta Africana",
+        "incorrecta2": "Girasol",
+        "incorrecta3": "Amapola\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el mineral más duro del planeta?",
+        "respuesta": "Diamante",
+        "incorrecta1": "Adamantino",
+        "incorrecta2": "Cuarzo ",
+        "incorrecta3": "Mármol\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué dedo del pie tiene generalmente la uña más grande?",
+        "respuesta": "Dedo Gordo",
+        "incorrecta1": "Dedo Anular ",
+        "incorrecta2": "Dedo Meñique",
+        "incorrecta3": "Dedo Índice\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué sustancia libera el Sistema Parasimpático?",
+        "respuesta": "Acetilcolina",
+        "incorrecta1": "Adrenalina",
+        "incorrecta2": "Noradrenalina",
+        "incorrecta3": "Serotonina\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué hueso se encuentra en el pene de la mayoría de mamíferos?",
+        "respuesta": "Báculo",
+        "incorrecta1": "Peniforme",
+        "incorrecta2": "Pitoideo",
+        "incorrecta3": "Ninguno\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántos lóbulos tiene la glándula tiroides?",
+        "respuesta": "2",
+        "incorrecta1": "1",
+        "incorrecta2": "3",
+        "incorrecta3": "0\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué nombre recibe la persona que no tiene melanina en los melanocitos de la piel?",
+        "respuesta": "Albina ",
+        "incorrecta1": "Despigmentada",
+        "incorrecta2": "Amelanínica",
+        "incorrecta3": "Hipomelanínica\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué metal es líquido a temperatura ambiente?",
+        "respuesta": "Mercurio",
+        "incorrecta1": "Hierro",
+        "incorrecta2": "Wolframio",
+        "incorrecta3": "Níquel\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se denomina la ciencia que estudia la naturaleza, las leyes y distribución de fenómenos meteorológicos?",
+        "respuesta": "Meteorología",
+        "incorrecta1": "Metalurgia",
+        "incorrecta2": "Fenomenología",
+        "incorrecta3": "Fisica"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Que se opera en una rinoplastia?",
+        "respuesta": "La Nariz",
+        "incorrecta1": "El Pecho",
+        "incorrecta2": "Liposucción",
+        "incorrecta3": "Plasta De Rinoceronte\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el contrario de la palabra \"digital\"?",
+        "respuesta": "Analógico",
+        "incorrecta1": "Entendido",
+        "incorrecta2": "Dactiloscópico",
+        "incorrecta3": "Técnico\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántos son los dientes de leche?",
+        "respuesta": "20",
+        "incorrecta1": "10",
+        "incorrecta2": "15",
+        "incorrecta3": "25\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuánto pesa aproximadamente un bebé elefante al nacer?",
+        "respuesta": "Entre 70 Y 100 Kilos",
+        "incorrecta1": "Entre 120 Y 150 Kilos",
+        "incorrecta2": "Entre 50 Y 70 Kilos",
+        "incorrecta3": "Entre 100 Y 120 Kilos\r",
+        "imagen": "https://i.ibb.co/rZcFJrW/1036712.jpg"
+    },
+    {
+        "categoria": "Química",
+        "pregunta": "¿Cuál de los siguientes nombres de compuestos representa al TNT?",
+        "respuesta": "Trinitrotolueno",
+        "incorrecta1": "Trinitrobenceno",
+        "incorrecta2": "Trinitrofenol",
+        "incorrecta3": "Trinitroglicerina\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama el trastorno alimentario donde la pérdida de apetito es causada por un miedo morboso a la obesidad?",
+        "respuesta": "Anorexia",
+        "incorrecta1": "Bulimia ",
+        "incorrecta2": "Gordofobia",
+        "incorrecta3": "Flacolitis"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Para qué sirve la prueba del carbono 14?",
+        "respuesta": "Deducir La Edad De Un Material",
+        "incorrecta1": "Calcular Los Quilates Del Oro",
+        "incorrecta2": "Calcular Los Electrones De Un Átomo",
+        "incorrecta3": "Galvanizar Un Metal \r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué animal representa al Sistema Operativo Linux?",
+        "respuesta": "Pingüino",
+        "incorrecta1": "León",
+        "incorrecta2": "Panda",
+        "incorrecta3": "Leopardo\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué son los triglicéridos?",
+        "respuesta": "Lípidos",
+        "incorrecta1": "Glúcidos",
+        "incorrecta2": "Proteínas",
+        "incorrecta3": "Vitaminas\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es la hemofobia?",
+        "respuesta": "Miedo A La Sangre",
+        "incorrecta1": "Miedo a los homosexuales",
+        "incorrecta2": "Temos a padecer hemorroides",
+        "incorrecta3": "desagrado a los emoticones"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el nombre del compuesto cuya fórmula es H2SO4?",
+        "respuesta": "Ácido Sulfúrico",
+        "incorrecta1": "Ácido Sulfuroso",
+        "incorrecta2": "Ácido Sulfhídrico",
+        "incorrecta3": "Anhídrido Sulfuroso\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué líquido almacenan los cactus?",
+        "respuesta": "Agua",
+        "incorrecta1": "Savia",
+        "incorrecta2": "Vino",
+        "incorrecta3": "Néctar",
+        "imagen": "https://i.ibb.co/F6Yb82T/salvar-a-un-cactus.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "El músculo que realiza una función contraria a otro es su...",
+        "respuesta": "Antagonista",
+        "incorrecta1": "Contralateral",
+        "incorrecta2": "Agonista",
+        "incorrecta3": "Ipsilateral\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es la combinación de las teclas que copia texto en un PC?",
+        "respuesta": "Ctrl + C",
+        "incorrecta1": "Ctrl + P",
+        "incorrecta2": "Ctrl + Q",
+        "incorrecta3": "Ctrl + V\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué significa ARN?",
+        "respuesta": "Ácido Ribonucleico",
+        "incorrecta1": "Ácido Rico En Núcleo",
+        "incorrecta2": "Ácido Desoxirribonucleico",
+        "incorrecta3": "Antena Rosa Y Numerada\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se conoce el ingrediente psicoactivo de la marihuana?",
+        "respuesta": "THC",
+        "incorrecta1": "LHC",
+        "incorrecta2": "LSD",
+        "incorrecta3": "PHP\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántos centímetros cúbicos tiene un litro?",
+        "respuesta": "1000",
+        "incorrecta1": "100",
+        "incorrecta2": "10",
+        "incorrecta3": "1\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Cómo se llama la rama de las matemáticas en que los números son representados por letras y símbolos?",
+        "respuesta": "Álgebra",
+        "incorrecta1": "Adición ",
+        "incorrecta2": "Geometría",
+        "incorrecta3": "Topología\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuántos hidrógenos tiene la molécula de metano?",
+        "respuesta": "4",
+        "incorrecta1": "10",
+        "incorrecta2": "6",
+        "incorrecta3": "8\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es el animal que tiene la presión más alta?",
+        "respuesta": "Jirafa",
+        "incorrecta1": "Conejo",
+        "incorrecta2": "Serpiente",
+        "incorrecta3": "Elefante\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿De qué color es el sudor de los hipopótamos?",
+        "respuesta": "Rojizo",
+        "incorrecta1": "Amarillo",
+        "incorrecta2": "Azul",
+        "incorrecta3": "Transparente"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama el líquido que expulsan los recién nacidos en lugar de las heces durante los primeros días?",
+        "respuesta": "Meconio",
+        "incorrecta1": "Placenta ",
+        "incorrecta2": "Frutenio",
+        "incorrecta3": "Politu\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cuál es la planta más conocida que tiene propiedades cicatrizantes, limpiadoras y regeneradoras?",
+        "respuesta": "Aloe Vera",
+        "incorrecta1": "Alcachofa",
+        "incorrecta2": "Eneldo",
+        "incorrecta3": "Quínoa\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué órgano del cuerpo es el más dañado por el consumo excesivo de alcohol?",
+        "respuesta": "Hígado",
+        "incorrecta1": "Cerebro",
+        "incorrecta2": "Estómago",
+        "incorrecta3": "Corazón\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué es el ciclo de Krebs?",
+        "respuesta": "Ciclo Del Ácido Cítrico",
+        "incorrecta1": "Ciclo Del Colesterol",
+        "incorrecta2": "Producción De Hormonas",
+        "incorrecta3": "No Existe Tal Cosa\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama la cresta que hace el labio debajo de la nariz?",
+        "respuesta": "Surco Nasolabial",
+        "incorrecta1": "Geme",
+        "incorrecta2": "Axila",
+        "incorrecta3": "Glabella\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué son la morfina y la heroína?",
+        "respuesta": "Opiáceos",
+        "incorrecta1": "Anfetaminas",
+        "incorrecta2": "Cannabis",
+        "incorrecta3": "Estimulantes\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué sustancia permite realizar la fotosíntesis?",
+        "respuesta": "Clorofila",
+        "incorrecta1": "Savia",
+        "incorrecta2": "Cloroformo",
+        "incorrecta3": "Agua\r",
+        "imagen": "https://i.ibb.co/8NcY2nM/00.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Cuál es el único nervio que no pasa por el tálamo?",
+        "respuesta": "Nervio Olfativo",
+        "incorrecta1": "Nervio Vago",
+        "incorrecta2": "Nervio Óptico",
+        "incorrecta3": "Nervio Ciático\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " ¿Qué hace un procastinador?",
+        "respuesta": "Pospone Sus Actividades",
+        "incorrecta1": "Se Obsesiona Con El Sexo",
+        "incorrecta2": "Presume Sus Logros",
+        "incorrecta3": "Es Hiperactivo\r"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Qué función tienen las manchas de la jirafa?",
+        "respuesta": "Sacar El Calor",
+        "incorrecta1": "Camuflaje",
+        "incorrecta2": "Atraer al sexo opuesto",
+        "incorrecta3": "Ahuyentar A Los Depredadores\r"
+    },
+    {"categoria": "Arte y literatura",
+    "pregunta": "¿En qué ciudad tiene lugar la acción de la novela 'Fortunata y Jacinta'?",
+    "respuesta": "Madrid",
+    "incorrecta1": "Barcelona",
+    "incorrecta2": "Valencia",
+    "incorrecta3": "Bilbao\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién es la autora de la novela 'La señora Dalloway'?",
+    "respuesta": "Virginia Woolf",
+    "incorrecta1": "Emily Brontë",
+    "incorrecta2": "Agatha Christie",
+    "incorrecta3": "Jane Austen\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Qué personaje de Shakespeare enloqueció de celos?",
+    "respuesta": "Otelo",
+    "incorrecta1": "Romeo ",
+    "incorrecta2": "Hamlet",
+    "incorrecta3": "Mercurio\r",
+    "imagen": "https://i.ibb.co/bzrSyrs/image.jpg"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién escribió la saga 'Fundación'?",
+    "respuesta": "Isaac Asimov",
+    "incorrecta1": "Ken Follett",
+    "incorrecta2": "T.Benacquista",
+    "incorrecta3": "Julio Verne\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿A qué movimiento artístico pertenece Rosalía de Castro?",
+    "respuesta": "Romanticismo",
+    "incorrecta1": "Modernismo ",
+    "incorrecta2": "Realismo",
+    "incorrecta3": "Vanguardias\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién pintó 'Las Meninas'?",
+    "respuesta": "Velázquez",
+    "incorrecta1": "Van Gogh",
+    "incorrecta2": "Goya",
+    "incorrecta3": "Monet\r",
+    "imagen": "https://i.ibb.co/Hrk7HQ2/image.jpg"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Cuál era el nombre de la protagonista 'El maravilloso Mago de Oz'?",
+    "respuesta": "Dorothy",
+    "incorrecta1": "Em",
+    "incorrecta2": "Agatha",
+    "incorrecta3": "Alicia\r"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién se dice que inventó la fábula?",
+    "respuesta": "Esopo",
+    "incorrecta1": "Platón ",
+    "incorrecta2": "Eurípides ",
+    "incorrecta3": "Sócrates \r"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién pintó 'Galatea de las esferas'?",
+    "respuesta": "Salvador Dalí",
+    "incorrecta1": "William Turner",
+    "incorrecta2": "Monet",
+    "incorrecta3": "Goya\r",
+    "imagen": "https://i.ibb.co/G92H7y6/image.jpg"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Dónde comenzó y terminó 'La vuelta al mundo en ochenta días'?",
+    "respuesta": "Londres",
+    "incorrecta1": "Berlín ",
+    "incorrecta2": "Ámsterdam",
+    "incorrecta3": "Nueva York\r",
+    "imagen": "https://i.ibb.co/yybKcz2/image.webp"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién pintó 'La miel es más dulce que la sangre'?",
+    "respuesta": "Salvador Dalí",
+    "incorrecta1": "Tomasso Masaccio",
+    "incorrecta2": "Monet",
+    "incorrecta3": "Picasso \r",
+    "imagen": "https://i.ibb.co/7XNypnD/00.jpg"
+},
+{
+    "categoria": "Arte y literatura",
+    "pregunta": "¿Quién pintó 'Carlos III', cuadro de la colección del Museo del Prado?",
+    "respuesta": "Anton Raphael Mengs ",
+    "incorrecta1": "Edgar Degas",
+    "incorrecta2": "El Greco",
+    "incorrecta3": "Vincent Van Gogh\r",
+    "imagen": "https://i.ibb.co/BGvGLrM/255ec66c-04a7-4db7-a013-34141700647e-832.jpg",
+    "objectFit": "contain"
+}
 ]
